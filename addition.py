@@ -1,5 +1,4 @@
 # This program adds two numbers entered by the user.
-# write the python programm for the addition of two number
-a=float(input("enter the first nnumber:"))
-b=float(input("enter the second number: "))
-print("addition({},{})={}".format(a,b,a+b))
+a = float(input("enter the first number: "))
+b = float(input("enter the second number: "))
+print("addition({}, {}) = {{}}".format(a, b, a + b))
